@@ -1,0 +1,10 @@
+/Users/robertoflores/Documents/PracticeC#/Archivos/bin/Debug/netcoreapp3.1/Archivos.deps.json
+/Users/robertoflores/Documents/PracticeC#/Archivos/bin/Debug/netcoreapp3.1/Archivos.runtimeconfig.json
+/Users/robertoflores/Documents/PracticeC#/Archivos/bin/Debug/netcoreapp3.1/Archivos.runtimeconfig.dev.json
+/Users/robertoflores/Documents/PracticeC#/Archivos/bin/Debug/netcoreapp3.1/Archivos.dll
+/Users/robertoflores/Documents/PracticeC#/Archivos/bin/Debug/netcoreapp3.1/Archivos.pdb
+/Users/robertoflores/Documents/PracticeC#/Archivos/obj/Debug/netcoreapp3.1/Archivos.csprojAssemblyReference.cache
+/Users/robertoflores/Documents/PracticeC#/Archivos/obj/Debug/netcoreapp3.1/Archivos.AssemblyInfoInputs.cache
+/Users/robertoflores/Documents/PracticeC#/Archivos/obj/Debug/netcoreapp3.1/Archivos.AssemblyInfo.cs
+/Users/robertoflores/Documents/PracticeC#/Archivos/obj/Debug/netcoreapp3.1/Archivos.dll
+/Users/robertoflores/Documents/PracticeC#/Archivos/obj/Debug/netcoreapp3.1/Archivos.pdb
